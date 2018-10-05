@@ -40,7 +40,7 @@
     return video.canPlayType(formats[type] || type);
   }
   
-  var getResult = () => {
+  var getResult = function () {
     var formats = ['ogg', 'h264', 'webm', 'vp9', 'hls']
     var result = document.getElementById('result')
 
