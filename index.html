@@ -44,7 +44,7 @@
     var formats = ['ogg', 'h264', 'webm', 'vp9', 'hls']
     var result = document.getElementById('result')
 
-    formats.forEach(item => {
+    formats.forEach(function (item) {
         var element = document.createElement('div')
         element.innerHTML = '<span>' + item + ':' + supportsVideoType(item) + '</span>'
   
