@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c215f828.chunk.css",
+    "main.js": "/static/js/main.e041f61b.chunk.js",
+    "main.js.map": "/static/js/main.e041f61b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d69e5064.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d69e5064.js.map",
+    "static/css/2.e4a047e2.chunk.css": "/static/css/2.e4a047e2.chunk.css",
+    "static/js/2.c8403b49.chunk.js": "/static/js/2.c8403b49.chunk.js",
+    "static/js/2.c8403b49.chunk.js.map": "/static/js/2.c8403b49.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.320b1d528ffd7cfadb4ad3c504947a68.js": "/precache-manifest.320b1d528ffd7cfadb4ad3c504947a68.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.e4a047e2.chunk.css.map": "/static/css/2.e4a047e2.chunk.css.map",
+    "static/css/main.c215f828.chunk.css.map": "/static/css/main.c215f828.chunk.css.map",
+    "static/js/2.c8403b49.chunk.js.LICENSE.txt": "/static/js/2.c8403b49.chunk.js.LICENSE.txt",
+    "static/media/Svydkoy_preview.mp4": "/static/media/Svydkoy_preview.c149fc92.mp4",
+    "static/media/Hotel.module.css": "/static/media/window.16865685.png",
+    "static/media/corner_fill.dfff8e4e.svg": "/static/media/corner_fill.dfff8e4e.svg",
+    "static/media/corner_opacity.4198bac2.svg": "/static/media/corner_opacity.4198bac2.svg",
+    "static/media/floor_round.ea1f9174.svg": "/static/media/floor_round.ea1f9174.svg",
+    "static/media/Main.module.css": "/static/media/table.5113a543.png",
+    "static/media/man.png": "/static/media/man.2d6b7239.png",
+    "static/media/rhombus.b5acc794.svg": "/static/media/rhombus.b5acc794.svg",
+    "static/media/ribbon_hotel.307767f2.svg": "/static/media/ribbon_hotel.307767f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d69e5064.js",
+    "static/css/2.e4a047e2.chunk.css",
+    "static/js/2.c8403b49.chunk.js",
+    "static/css/main.c215f828.chunk.css",
+    "static/js/main.e041f61b.chunk.js"
+  ]
+}
