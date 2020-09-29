@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.39c717ac.chunk.css",
-    "main.js": "/static/js/main.d9f6f026.chunk.js",
-    "main.js.map": "/static/js/main.d9f6f026.chunk.js.map",
+    "main.css": "/static/css/main.f5cf4002.chunk.css",
+    "main.js": "/static/js/main.ba2f37e2.chunk.js",
+    "main.js.map": "/static/js/main.ba2f37e2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d69e5064.js",
     "runtime-main.js.map": "/static/js/runtime-main.d69e5064.js.map",
     "static/css/2.e4a047e2.chunk.css": "/static/css/2.e4a047e2.chunk.css",
-    "static/js/2.193cae51.chunk.js": "/static/js/2.193cae51.chunk.js",
-    "static/js/2.193cae51.chunk.js.map": "/static/js/2.193cae51.chunk.js.map",
+    "static/js/2.3f4a90f0.chunk.js": "/static/js/2.3f4a90f0.chunk.js",
+    "static/js/2.3f4a90f0.chunk.js.map": "/static/js/2.3f4a90f0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bd5a97a8854c582260c2ce48650e823b.js": "/precache-manifest.bd5a97a8854c582260c2ce48650e823b.js",
+    "precache-manifest.878d0f42a2636028c0dbb35df6c233c1.js": "/precache-manifest.878d0f42a2636028c0dbb35df6c233c1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.e4a047e2.chunk.css.map": "/static/css/2.e4a047e2.chunk.css.map",
-    "static/css/main.39c717ac.chunk.css.map": "/static/css/main.39c717ac.chunk.css.map",
-    "static/js/2.193cae51.chunk.js.LICENSE.txt": "/static/js/2.193cae51.chunk.js.LICENSE.txt",
+    "static/css/main.f5cf4002.chunk.css.map": "/static/css/main.f5cf4002.chunk.css.map",
+    "static/js/2.3f4a90f0.chunk.js.LICENSE.txt": "/static/js/2.3f4a90f0.chunk.js.LICENSE.txt",
+    "static/media/Fetisov_preview.mp4": "/static/media/Fetisov_preview.5d05a966.mp4",
+    "static/media/Krasheninnikov_preview.mp4": "/static/media/Krasheninnikov_preview.1e5f7c26.mp4",
     "static/media/Svydkoy_preview.mp4": "/static/media/Svydkoy_preview.c149fc92.mp4",
+    "static/media/Tolstoy_preview.mp4": "/static/media/Tolstoy_preview.cfa1b327.mp4",
     "static/media/Hotel.module.css": "/static/media/window.16865685.png",
     "static/media/corner_fill.dfff8e4e.svg": "/static/media/corner_fill.dfff8e4e.svg",
     "static/media/corner_opacity.4198bac2.svg": "/static/media/corner_opacity.4198bac2.svg",
@@ -27,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.d69e5064.js",
     "static/css/2.e4a047e2.chunk.css",
-    "static/js/2.193cae51.chunk.js",
-    "static/css/main.39c717ac.chunk.css",
-    "static/js/main.d9f6f026.chunk.js"
+    "static/js/2.3f4a90f0.chunk.js",
+    "static/css/main.f5cf4002.chunk.css",
+    "static/js/main.ba2f37e2.chunk.js"
   ]
 }
