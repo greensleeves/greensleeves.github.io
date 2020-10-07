@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59f79d2aa2bbe3c73bc29a7ed4fb05a8",
+    "revision": "ac6297b65ffddbff2a9cfe125653f489",
     "url": "/index.html"
   },
   {
-    "revision": "162fd55f34fab3b6207c",
+    "revision": "05e1340085b43d1c07fd",
     "url": "/static/css/2.e4a047e2.chunk.css"
   },
   {
-    "revision": "6f007b25e41f298e0f33",
-    "url": "/static/css/main.837b766c.chunk.css"
+    "revision": "4621142e0dd4fe6fe83c",
+    "url": "/static/css/main.635ce3b8.chunk.css"
   },
   {
-    "revision": "162fd55f34fab3b6207c",
-    "url": "/static/js/2.505efe9b.chunk.js"
+    "revision": "05e1340085b43d1c07fd",
+    "url": "/static/js/2.a39ce8e7.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.505efe9b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a39ce8e7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6f007b25e41f298e0f33",
-    "url": "/static/js/main.63446128.chunk.js"
+    "revision": "4621142e0dd4fe6fe83c",
+    "url": "/static/js/main.05132258.chunk.js"
   },
   {
     "revision": "0d2f18cee0646946960b",
@@ -72,6 +72,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/corner_opacity.4198bac2.svg"
   },
   {
+    "revision": "79421dac2589046152614c978b131dc9",
+    "url": "/static/media/facebook.79421dac.svg"
+  },
+  {
     "revision": "ea1f91740aedfb7225b52bf1f6ef0d9a",
     "url": "/static/media/floor_round.ea1f9174.svg"
   },
@@ -84,8 +88,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/man.dc91504b.png"
   },
   {
+    "revision": "490834be5c1d145776ab2e03af5f483f",
+    "url": "/static/media/odn.490834be.svg"
+  },
+  {
     "revision": "0ac25fb9f50d91b752779bb96e91a0e2",
     "url": "/static/media/pg.0ac25fb9.png"
+  },
+  {
+    "revision": "cd57126b513d5a8cd8fc14240490d69c",
+    "url": "/static/media/play.cd57126b.svg"
   },
   {
     "revision": "b5acc794e73ebeb274032146581c260b",
@@ -96,8 +108,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ribbon_hotel.307767f2.svg"
   },
   {
+    "revision": "f84af333bf5add0b7e97a776953abbaf",
+    "url": "/static/media/share.f84af333.svg"
+  },
+  {
     "revision": "5113a54378db4437528905012758d9f1",
     "url": "/static/media/table.5113a543.png"
+  },
+  {
+    "revision": "8057e8734c3a01fc268ead5df0f13398",
+    "url": "/static/media/tel.8057e873.svg"
+  },
+  {
+    "revision": "7cb390aa628fd8d60b8a9c399c933520",
+    "url": "/static/media/tw.7cb390aa.svg"
+  },
+  {
+    "revision": "165f517e7da1b7553fa49f95ddd30d40",
+    "url": "/static/media/vk.165f517e.svg"
   },
   {
     "revision": "16865685b22496a525527778e6ad49b5",
