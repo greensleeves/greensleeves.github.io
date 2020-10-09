@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b6d5c31366704287d0bc6e3beb88d11",
+    "revision": "4e5cbef1c79b61e047d010731a83c1f4",
     "url": "/index.html"
   },
   {
-    "revision": "05e1340085b43d1c07fd",
+    "revision": "01269c5bdaf8a5145b6d",
     "url": "/static/css/2.e4a047e2.chunk.css"
   },
   {
-    "revision": "7c1d3b5795c8111d4a26",
-    "url": "/static/css/main.59a7e6ef.chunk.css"
+    "revision": "bd04e705061a62ae64ba",
+    "url": "/static/css/main.6e5fd46d.chunk.css"
   },
   {
-    "revision": "05e1340085b43d1c07fd",
-    "url": "/static/js/2.a39ce8e7.chunk.js"
+    "revision": "01269c5bdaf8a5145b6d",
+    "url": "/static/js/2.a933580b.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.a39ce8e7.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a933580b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c1d3b5795c8111d4a26",
-    "url": "/static/js/main.df05a827.chunk.js"
+    "revision": "bd04e705061a62ae64ba",
+    "url": "/static/js/main.ae08fa3b.chunk.js"
   },
   {
     "revision": "0d2f18cee0646946960b",
     "url": "/static/js/runtime-main.d69e5064.js"
+  },
+  {
+    "revision": "46b8edc789f3edd35f3cc7c70f601e8e",
+    "url": "/static/media/Baturin_preview.46b8edc7.mp4"
   },
   {
     "revision": "5d05a966c603c9fddb498ce6063c17e6",
@@ -36,12 +40,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Krasheninnikov_preview.1e5f7c26.mp4"
   },
   {
+    "revision": "b39e373b4c5528b3fe46046a1f17cfca",
+    "url": "/static/media/Levitin_preview.b39e373b.mp4"
+  },
+  {
+    "revision": "15f501aa8678c06b81b63bf9ebad1b6b",
+    "url": "/static/media/Rar_preview.15f501aa.mp4"
+  },
+  {
     "revision": "c149fc92accc81ce7379fe09db15406d",
     "url": "/static/media/Svydkoy_preview.c149fc92.mp4"
   },
   {
     "revision": "cfa1b327114eebc14932e0ca00b6a4c3",
     "url": "/static/media/Tolstoy_preview.cfa1b327.mp4"
+  },
+  {
+    "revision": "77dcfb9fb70f29853d0a952e995a5563",
+    "url": "/static/media/Vasilevich_preview.77dcfb9f.mp4"
+  },
+  {
+    "revision": "70eaa27d6ed65fd861a13de5cd564f4e",
+    "url": "/static/media/Vecherko_preview.70eaa27d.mp4"
   },
   {
     "revision": "36d55165a9f796353c8b4a47b9ed99c6",
@@ -90,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dc91504bd2742431035907ccf6a6e5c5",
     "url": "/static/media/man.dc91504b.png"
+  },
+  {
+    "revision": "d041b3774083128af016f8f202c5360d",
+    "url": "/static/media/news.d041b377.svg"
   },
   {
     "revision": "490834be5c1d145776ab2e03af5f483f",
