@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7afb841febfafe81cb5756600cc2eac3",
+    "revision": "fef4b9d30ba1e7b5343098253ee313c1",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.15037a40.chunk.css"
   },
   {
-    "revision": "0ef0ef496298f8d26ef4",
-    "url": "/static/css/main.34c589a1.chunk.css"
+    "revision": "9956b7ad39b7cb361e53",
+    "url": "/static/css/main.b86017e4.chunk.css"
   },
   {
     "revision": "61d2b94392eb6d9cf6e2",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.ae2a33f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ef0ef496298f8d26ef4",
+    "revision": "9956b7ad39b7cb361e53",
     "url": "/static/js/main.9aa285cf.chunk.js"
   },
   {
@@ -148,12 +148,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/floor_round.1672a155.svg"
   },
   {
-    "revision": "0792d777fe708fe4b1e18965f0ca0395",
-    "url": "/static/media/fon_mp.0792d777.jpg"
-  },
-  {
     "revision": "023a6d077270e65829e0a1f77f10026f",
     "url": "/static/media/fsb_rasstavlyaet_akcenti.023a6d07.jpg"
+  },
+  {
+    "revision": "013e8e6d185410bfbff7c83b048abd10",
+    "url": "/static/media/hotel.013e8e6d.png"
   },
   {
     "revision": "aba4d1fdcc98165d0db61d3678e58be9",

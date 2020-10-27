@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.34c589a1.chunk.css",
+    "main.css": "/static/css/main.b86017e4.chunk.css",
     "main.js": "/static/js/main.9aa285cf.chunk.js",
     "main.js.map": "/static/js/main.9aa285cf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d69e5064.js",
@@ -9,10 +9,10 @@
     "static/js/2.ae2a33f4.chunk.js": "/static/js/2.ae2a33f4.chunk.js",
     "static/js/2.ae2a33f4.chunk.js.map": "/static/js/2.ae2a33f4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ce18ed346185180e080ead76110e718d.js": "/precache-manifest.ce18ed346185180e080ead76110e718d.js",
+    "precache-manifest.cfaff8d659685073e40448f72e48894b.js": "/precache-manifest.cfaff8d659685073e40448f72e48894b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.15037a40.chunk.css.map": "/static/css/2.15037a40.chunk.css.map",
-    "static/css/main.34c589a1.chunk.css.map": "/static/css/main.34c589a1.chunk.css.map",
+    "static/css/main.b86017e4.chunk.css.map": "/static/css/main.b86017e4.chunk.css.map",
     "static/js/2.ae2a33f4.chunk.js.LICENSE.txt": "/static/js/2.ae2a33f4.chunk.js.LICENSE.txt",
     "static/media/75_velikoy_pobedi.jpg": "/static/media/75_velikoy_pobedi.6281d591.jpg",
     "static/media/Baturin_preview.mp4": "/static/media/Baturin_preview.46b8edc7.mp4",
@@ -40,8 +40,8 @@
     "static/media/download.bbe3d95e.svg": "/static/media/download.bbe3d95e.svg",
     "static/media/facebook.79421dac.svg": "/static/media/facebook.79421dac.svg",
     "static/media/floor_round.1672a155.svg": "/static/media/floor_round.1672a155.svg",
-    "static/media/Main.module.css": "/static/media/fon_mp.0792d777.jpg",
     "static/media/fsb_rasstavlyaet_akcenti.jpg": "/static/media/fsb_rasstavlyaet_akcenti.023a6d07.jpg",
+    "static/media/Main.module.css": "/static/media/hotel.013e8e6d.png",
     "static/media/konstituciya_rf.jpg": "/static/media/konstituciya_rf.aba4d1fd.jpg",
     "static/media/krestiyanin_i_djentelmen.jpg": "/static/media/krestiyanin_i_djentelmen.a0e11134.jpg",
     "static/media/logo.7ee056e0.svg": "/static/media/logo.7ee056e0.svg",
@@ -79,7 +79,7 @@
     "static/js/runtime-main.d69e5064.js",
     "static/css/2.15037a40.chunk.css",
     "static/js/2.ae2a33f4.chunk.js",
-    "static/css/main.34c589a1.chunk.css",
+    "static/css/main.b86017e4.chunk.css",
     "static/js/main.9aa285cf.chunk.js"
   ]
 }
