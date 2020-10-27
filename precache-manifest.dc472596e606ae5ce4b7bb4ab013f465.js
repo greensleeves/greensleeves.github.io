@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4dc670c9368f1f442afd766ea8be152",
+    "revision": "7cedd9e05e59b23ac5faa5013a4ab5ab",
     "url": "/index.html"
   },
   {
-    "revision": "2e65b1fbc3815991e28a",
+    "revision": "7b3a70836466fb2f65fe",
     "url": "/static/css/2.15037a40.chunk.css"
   },
   {
-    "revision": "f6dd1c8536b10b1da6fb",
+    "revision": "8b66f4ec906b2e628929",
     "url": "/static/css/main.c28783f7.chunk.css"
   },
   {
-    "revision": "2e65b1fbc3815991e28a",
-    "url": "/static/js/2.a9413b72.chunk.js"
+    "revision": "7b3a70836466fb2f65fe",
+    "url": "/static/js/2.b969022e.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.a9413b72.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b969022e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f6dd1c8536b10b1da6fb",
-    "url": "/static/js/main.eca0ab55.chunk.js"
+    "revision": "8b66f4ec906b2e628929",
+    "url": "/static/js/main.b2f4e1ab.chunk.js"
   },
   {
     "revision": "0d2f18cee0646946960b",
@@ -98,10 +98,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2165c5f51afaf0df7ed3ec218e1fa4b4",
     "url": "/static/media/beslan_h.2165c5f5.jpg"
-  },
-  {
-    "revision": "5c988a05d9db9e5907ad499c031127b6",
-    "url": "/static/media/beslan_v.5c988a05.jpg"
   },
   {
     "revision": "ff6827d50be4a4894f4061c838d6acdf",
@@ -190,10 +186,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "eee288231eb81e8cf54d84ec515208af",
     "url": "/static/media/navodnenie_bereg.eee28823.jpg"
-  },
-  {
-    "revision": "b9930e3df18b888f7435164c15fb0810",
-    "url": "/static/media/navodnenie_voda.b9930e3d.jpg"
   },
   {
     "revision": "55a950af6e2be8e657705f42ac82212d",

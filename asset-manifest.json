@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.c28783f7.chunk.css",
-    "main.js": "/static/js/main.eca0ab55.chunk.js",
-    "main.js.map": "/static/js/main.eca0ab55.chunk.js.map",
+    "main.js": "/static/js/main.b2f4e1ab.chunk.js",
+    "main.js.map": "/static/js/main.b2f4e1ab.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d69e5064.js",
     "runtime-main.js.map": "/static/js/runtime-main.d69e5064.js.map",
     "static/css/2.15037a40.chunk.css": "/static/css/2.15037a40.chunk.css",
-    "static/js/2.a9413b72.chunk.js": "/static/js/2.a9413b72.chunk.js",
-    "static/js/2.a9413b72.chunk.js.map": "/static/js/2.a9413b72.chunk.js.map",
+    "static/js/2.b969022e.chunk.js": "/static/js/2.b969022e.chunk.js",
+    "static/js/2.b969022e.chunk.js.map": "/static/js/2.b969022e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c783daa8701cdc9065333262a22114e6.js": "/precache-manifest.c783daa8701cdc9065333262a22114e6.js",
+    "precache-manifest.dc472596e606ae5ce4b7bb4ab013f465.js": "/precache-manifest.dc472596e606ae5ce4b7bb4ab013f465.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.15037a40.chunk.css.map": "/static/css/2.15037a40.chunk.css.map",
     "static/css/main.c28783f7.chunk.css.map": "/static/css/main.c28783f7.chunk.css.map",
-    "static/js/2.a9413b72.chunk.js.LICENSE.txt": "/static/js/2.a9413b72.chunk.js.LICENSE.txt",
+    "static/js/2.b969022e.chunk.js.LICENSE.txt": "/static/js/2.b969022e.chunk.js.LICENSE.txt",
     "static/media/75_velikoy_pobedi.jpg": "/static/media/75_velikoy_pobedi.6281d591.jpg",
     "static/media/Baturin_preview.mp4": "/static/media/Baturin_preview.46b8edc7.mp4",
     "static/media/Fetisov_preview.mp4": "/static/media/Fetisov_preview.5d05a966.mp4",
@@ -30,7 +30,6 @@
     "static/media/arrow_prev.d1563fda.svg": "/static/media/arrow_prev.d1563fda.svg",
     "static/media/Hotel.module.css": "/static/media/window.16865685.png",
     "static/media/beslan_h.jpg": "/static/media/beslan_h.2165c5f5.jpg",
-    "static/media/beslan_v.jpg": "/static/media/beslan_v.5c988a05.jpg",
     "static/media/burger.9884f28e.svg": "/static/media/burger.9884f28e.svg",
     "static/media/close.2a1b6bde.svg": "/static/media/close.2a1b6bde.svg",
     "static/media/dali_vzdohnut.jpg": "/static/media/dali_vzdohnut.b629b39b.jpg",
@@ -51,7 +50,6 @@
     "static/media/main_bg.mp4": "/static/media/main_bg.aa3c1111.mp4",
     "static/media/man.png": "/static/media/man.aa5e93b3.png",
     "static/media/navodnenie_bereg.jpg": "/static/media/navodnenie_bereg.eee28823.jpg",
-    "static/media/navodnenie_voda.jpg": "/static/media/navodnenie_voda.b9930e3d.jpg",
     "static/media/nord_ost.jpg": "/static/media/nord_ost.55a950af.jpg",
     "static/media/noviy_god_po_kalendaryu_oon.jpg": "/static/media/noviy_god_po_kalendaryu_oon.13391a1b.jpg",
     "static/media/odn.490834be.svg": "/static/media/odn.490834be.svg",
@@ -84,8 +82,8 @@
   "entrypoints": [
     "static/js/runtime-main.d69e5064.js",
     "static/css/2.15037a40.chunk.css",
-    "static/js/2.a9413b72.chunk.js",
+    "static/js/2.b969022e.chunk.js",
     "static/css/main.c28783f7.chunk.css",
-    "static/js/main.eca0ab55.chunk.js"
+    "static/js/main.b2f4e1ab.chunk.js"
   ]
 }
