@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "908e6c1a55c10f2f4f9a3604d20c8861",
+    "revision": "c68835be20c4e9315e1b8f4aefd41145",
     "url": "/index.html"
   },
   {
-    "revision": "7b3a70836466fb2f65fe",
+    "revision": "1c0ad9dc4eac85f18242",
     "url": "/static/css/2.15037a40.chunk.css"
   },
   {
-    "revision": "aecd1d9ed28b7f4aff2e",
-    "url": "/static/css/main.c28783f7.chunk.css"
+    "revision": "4f5047f49a26ee80f2d8",
+    "url": "/static/css/main.c7760c7d.chunk.css"
   },
   {
-    "revision": "7b3a70836466fb2f65fe",
-    "url": "/static/js/2.b969022e.chunk.js"
+    "revision": "1c0ad9dc4eac85f18242",
+    "url": "/static/js/2.0f9ffca7.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.b969022e.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0f9ffca7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aecd1d9ed28b7f4aff2e",
-    "url": "/static/js/main.1ff244ca.chunk.js"
+    "revision": "4f5047f49a26ee80f2d8",
+    "url": "/static/js/main.35a5249f.chunk.js"
   },
   {
     "revision": "0d2f18cee0646946960b",
@@ -76,12 +76,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/arrow_back.03ff4adb.svg"
   },
   {
-    "revision": "6e59416211516f33aa8068bb8cb31b05",
-    "url": "/static/media/arrow_next.6e594162.svg"
+    "revision": "f898d0adb80db9a0c4bfd02d0006bf33",
+    "url": "/static/media/arrow_next.f898d0ad.svg"
   },
   {
-    "revision": "d1563fdaee10e0413f90dd104acca5ab",
-    "url": "/static/media/arrow_prev.d1563fda.svg"
+    "revision": "00e314c839c8cf228b4fcab3c18449eb",
+    "url": "/static/media/arrow_prev.00e314c8.svg"
   },
   {
     "revision": "768962d346880ac0ec8d3adab3d2c51f",
@@ -96,8 +96,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/background_yellow_x2.d23e9e9f.jpg"
   },
   {
-    "revision": "2165c5f51afaf0df7ed3ec218e1fa4b4",
-    "url": "/static/media/beslan_h.2165c5f5.jpg"
+    "revision": "4bdfc41895698d2cc00dca7917ca0fba",
+    "url": "/static/media/beslan_h.4bdfc418.jpg"
   },
   {
     "revision": "ff6827d50be4a4894f4061c838d6acdf",
@@ -136,8 +136,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/download.bbe3d95e.svg"
   },
   {
-    "revision": "7efc8a196f01e54546225540f441c449",
-    "url": "/static/media/dr_mihalkova.7efc8a19.jpg"
+    "revision": "e2a0de5c2dbc500e04d44aa5ec9c947f",
+    "url": "/static/media/dr_mihalkova.e2a0de5c.jpg"
   },
   {
     "revision": "79421dac2589046152614c978b131dc9",
@@ -180,12 +180,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/main_bg.aa3c1111.mp4"
   },
   {
-    "revision": "aa5e93b334e48c8e535ef1939f24df83",
-    "url": "/static/media/man.aa5e93b3.png"
+    "revision": "e8d82d38cf673750765f18f1e2b530e7",
+    "url": "/static/media/man.e8d82d38.png"
   },
   {
-    "revision": "eee288231eb81e8cf54d84ec515208af",
-    "url": "/static/media/navodnenie_bereg.eee28823.jpg"
+    "revision": "5e48a9d99119b77815f192078c7e3960",
+    "url": "/static/media/navodnenie_bereg.5e48a9d9.jpg"
   },
   {
     "revision": "55a950af6e2be8e657705f42ac82212d",
@@ -206,6 +206,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3bb2f47e12218ad8923286cc6c017e88",
     "url": "/static/media/ostrov_potryaseniya.3bb2f47e.jpg"
+  },
+  {
+    "revision": "1a03c5118c6078eb63c91f55daa70b67",
+    "url": "/static/media/pause.1a03c511.svg"
   },
   {
     "revision": "0ac25fb9f50d91b752779bb96e91a0e2",
@@ -290,10 +294,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7cb390aa628fd8d60b8a9c399c933520",
     "url": "/static/media/tw.7cb390aa.svg"
-  },
-  {
-    "revision": "018a9ee55d5ef07749dd26de23390e41",
-    "url": "/static/media/video_v2.018a9ee5.jpg"
   },
   {
     "revision": "165f517e7da1b7553fa49f95ddd30d40",
