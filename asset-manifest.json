@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce4f0728.chunk.css",
-    "main.js": "/static/js/main.aecb1578.chunk.js",
-    "main.js.map": "/static/js/main.aecb1578.chunk.js.map",
+    "main.css": "/static/css/main.8ea66b28.chunk.css",
+    "main.js": "/static/js/main.623194bc.chunk.js",
+    "main.js.map": "/static/js/main.623194bc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d69e5064.js",
     "runtime-main.js.map": "/static/js/runtime-main.d69e5064.js.map",
     "static/css/2.15037a40.chunk.css": "/static/css/2.15037a40.chunk.css",
     "static/js/2.fe2b588c.chunk.js": "/static/js/2.fe2b588c.chunk.js",
     "static/js/2.fe2b588c.chunk.js.map": "/static/js/2.fe2b588c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d0d51a35eb1947d0fd8c86e3ce398961.js": "/precache-manifest.d0d51a35eb1947d0fd8c86e3ce398961.js",
+    "precache-manifest.be4af9f8e81c8ee47d3180dbe652de18.js": "/precache-manifest.be4af9f8e81c8ee47d3180dbe652de18.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.15037a40.chunk.css.map": "/static/css/2.15037a40.chunk.css.map",
-    "static/css/main.ce4f0728.chunk.css.map": "/static/css/main.ce4f0728.chunk.css.map",
+    "static/css/main.8ea66b28.chunk.css.map": "/static/css/main.8ea66b28.chunk.css.map",
     "static/js/2.fe2b588c.chunk.js.LICENSE.txt": "/static/js/2.fe2b588c.chunk.js.LICENSE.txt",
     "static/media/75_velikoy_pobedi.jpg": "/static/media/75_velikoy_pobedi.6281d591.jpg",
     "static/media/Baturin_preview.mp4": "/static/media/Baturin_preview.46b8edc7.mp4",
@@ -41,7 +41,7 @@
     "static/media/facebook.79421dac.svg": "/static/media/facebook.79421dac.svg",
     "static/media/floor_round.1672a155.svg": "/static/media/floor_round.1672a155.svg",
     "static/media/fsb_rasstavlyaet_akcenti.jpg": "/static/media/fsb_rasstavlyaet_akcenti.023a6d07.jpg",
-    "static/media/Main.module.css": "/static/media/hotel.013e8e6d.png",
+    "static/media/Main.module.css": "/static/media/table.0aa5a678.jpg",
     "static/media/igri_v_zashite.jpg": "/static/media/igri_v_zashite.db94e869.jpg",
     "static/media/krestiyanin_i_djentelmen.jpg": "/static/media/krestiyanin_i_djentelmen.a0e11134.jpg",
     "static/media/logo.7ee056e0.svg": "/static/media/logo.7ee056e0.svg",
@@ -84,7 +84,7 @@
     "static/js/runtime-main.d69e5064.js",
     "static/css/2.15037a40.chunk.css",
     "static/js/2.fe2b588c.chunk.js",
-    "static/css/main.ce4f0728.chunk.css",
-    "static/js/main.aecb1578.chunk.js"
+    "static/css/main.8ea66b28.chunk.css",
+    "static/js/main.623194bc.chunk.js"
   ]
 }
