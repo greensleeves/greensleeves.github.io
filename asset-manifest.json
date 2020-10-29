@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.55de7b69.chunk.css",
-    "main.js": "/static/js/main.7221d3e2.chunk.js",
-    "main.js.map": "/static/js/main.7221d3e2.chunk.js.map",
+    "main.css": "/static/css/main.ce4f0728.chunk.css",
+    "main.js": "/static/js/main.aecb1578.chunk.js",
+    "main.js.map": "/static/js/main.aecb1578.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d69e5064.js",
     "runtime-main.js.map": "/static/js/runtime-main.d69e5064.js.map",
     "static/css/2.15037a40.chunk.css": "/static/css/2.15037a40.chunk.css",
     "static/js/2.fe2b588c.chunk.js": "/static/js/2.fe2b588c.chunk.js",
     "static/js/2.fe2b588c.chunk.js.map": "/static/js/2.fe2b588c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4336cc661f173fdbb96bd71fa9c9cbf9.js": "/precache-manifest.4336cc661f173fdbb96bd71fa9c9cbf9.js",
+    "precache-manifest.d0d51a35eb1947d0fd8c86e3ce398961.js": "/precache-manifest.d0d51a35eb1947d0fd8c86e3ce398961.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.15037a40.chunk.css.map": "/static/css/2.15037a40.chunk.css.map",
-    "static/css/main.55de7b69.chunk.css.map": "/static/css/main.55de7b69.chunk.css.map",
+    "static/css/main.ce4f0728.chunk.css.map": "/static/css/main.ce4f0728.chunk.css.map",
     "static/js/2.fe2b588c.chunk.js.LICENSE.txt": "/static/js/2.fe2b588c.chunk.js.LICENSE.txt",
     "static/media/75_velikoy_pobedi.jpg": "/static/media/75_velikoy_pobedi.6281d591.jpg",
     "static/media/Baturin_preview.mp4": "/static/media/Baturin_preview.46b8edc7.mp4",
@@ -84,7 +84,7 @@
     "static/js/runtime-main.d69e5064.js",
     "static/css/2.15037a40.chunk.css",
     "static/js/2.fe2b588c.chunk.js",
-    "static/css/main.55de7b69.chunk.css",
-    "static/js/main.7221d3e2.chunk.js"
+    "static/css/main.ce4f0728.chunk.css",
+    "static/js/main.aecb1578.chunk.js"
   ]
 }
