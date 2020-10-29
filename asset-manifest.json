@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.635e8aaf.chunk.css",
-    "main.js": "/static/js/main.3fd03e85.chunk.js",
-    "main.js.map": "/static/js/main.3fd03e85.chunk.js.map",
+    "main.css": "/static/css/main.55de7b69.chunk.css",
+    "main.js": "/static/js/main.7221d3e2.chunk.js",
+    "main.js.map": "/static/js/main.7221d3e2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d69e5064.js",
     "runtime-main.js.map": "/static/js/runtime-main.d69e5064.js.map",
     "static/css/2.15037a40.chunk.css": "/static/css/2.15037a40.chunk.css",
-    "static/js/2.0f9ffca7.chunk.js": "/static/js/2.0f9ffca7.chunk.js",
-    "static/js/2.0f9ffca7.chunk.js.map": "/static/js/2.0f9ffca7.chunk.js.map",
+    "static/js/2.fe2b588c.chunk.js": "/static/js/2.fe2b588c.chunk.js",
+    "static/js/2.fe2b588c.chunk.js.map": "/static/js/2.fe2b588c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9e3db719eca7aa92578cf0abfecc2ece.js": "/precache-manifest.9e3db719eca7aa92578cf0abfecc2ece.js",
+    "precache-manifest.4336cc661f173fdbb96bd71fa9c9cbf9.js": "/precache-manifest.4336cc661f173fdbb96bd71fa9c9cbf9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.15037a40.chunk.css.map": "/static/css/2.15037a40.chunk.css.map",
-    "static/css/main.635e8aaf.chunk.css.map": "/static/css/main.635e8aaf.chunk.css.map",
-    "static/js/2.0f9ffca7.chunk.js.LICENSE.txt": "/static/js/2.0f9ffca7.chunk.js.LICENSE.txt",
+    "static/css/main.55de7b69.chunk.css.map": "/static/css/main.55de7b69.chunk.css.map",
+    "static/js/2.fe2b588c.chunk.js.LICENSE.txt": "/static/js/2.fe2b588c.chunk.js.LICENSE.txt",
     "static/media/75_velikoy_pobedi.jpg": "/static/media/75_velikoy_pobedi.6281d591.jpg",
     "static/media/Baturin_preview.mp4": "/static/media/Baturin_preview.46b8edc7.mp4",
     "static/media/Fetisov_preview.mp4": "/static/media/Fetisov_preview.5d05a966.mp4",
@@ -68,6 +68,7 @@
     "static/media/rodila_ubila.jpg": "/static/media/rodila_ubila.87edca20.jpg",
     "static/media/s_ukrainoi_budet_bolno.jpg": "/static/media/s_ukrainoi_budet_bolno.8559afd7.jpg",
     "static/media/share.f84af333.svg": "/static/media/share.f84af333.svg",
+    "static/media/skovannie_strahom.jpg": "/static/media/skovannie_strahom.78e53999.jpg",
     "static/media/strana_bez_gastarbaiterov.jpg": "/static/media/strana_bez_gastarbaiterov.ed477c89.jpg",
     "static/media/tel.8057e873.svg": "/static/media/tel.8057e873.svg",
     "static/media/tri_kita_na_odnogo.jpg": "/static/media/tri_kita_na_odnogo.3b289418.jpg",
@@ -82,8 +83,8 @@
   "entrypoints": [
     "static/js/runtime-main.d69e5064.js",
     "static/css/2.15037a40.chunk.css",
-    "static/js/2.0f9ffca7.chunk.js",
-    "static/css/main.635e8aaf.chunk.css",
-    "static/js/main.3fd03e85.chunk.js"
+    "static/js/2.fe2b588c.chunk.js",
+    "static/css/main.55de7b69.chunk.css",
+    "static/js/main.7221d3e2.chunk.js"
   ]
 }
