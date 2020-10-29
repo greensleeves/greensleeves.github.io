@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8babaed2d41c0e45cb1f16675765b3f9",
+    "revision": "72c175c1fc9a1ad72edeb66b36dc1d25",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.15037a40.chunk.css"
   },
   {
-    "revision": "a9dbbe22f1c4f69e44f7",
-    "url": "/static/css/main.aba52b05.chunk.css"
+    "revision": "993dbd2671591e121bbf",
+    "url": "/static/css/main.635e8aaf.chunk.css"
   },
   {
     "revision": "1c0ad9dc4eac85f18242",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.0f9ffca7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9dbbe22f1c4f69e44f7",
-    "url": "/static/js/main.f968a2d4.chunk.js"
+    "revision": "993dbd2671591e121bbf",
+    "url": "/static/js/main.11b328e9.chunk.js"
   },
   {
     "revision": "0d2f18cee0646946960b",
@@ -304,8 +304,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/vozdushnaya_trevoga.40843091.jpg"
   },
   {
-    "revision": "fc7e7903245d4bfadad50bc807cd3199",
-    "url": "/static/media/watch.fc7e7903.svg"
+    "revision": "2ca7119f9a643293d4821dc822f11e8c",
+    "url": "/static/media/watch.2ca7119f.svg"
   },
   {
     "revision": "16865685b22496a525527778e6ad49b5",

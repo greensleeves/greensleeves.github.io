@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.aba52b05.chunk.css",
-    "main.js": "/static/js/main.f968a2d4.chunk.js",
-    "main.js.map": "/static/js/main.f968a2d4.chunk.js.map",
+    "main.css": "/static/css/main.635e8aaf.chunk.css",
+    "main.js": "/static/js/main.11b328e9.chunk.js",
+    "main.js.map": "/static/js/main.11b328e9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d69e5064.js",
     "runtime-main.js.map": "/static/js/runtime-main.d69e5064.js.map",
     "static/css/2.15037a40.chunk.css": "/static/css/2.15037a40.chunk.css",
     "static/js/2.0f9ffca7.chunk.js": "/static/js/2.0f9ffca7.chunk.js",
     "static/js/2.0f9ffca7.chunk.js.map": "/static/js/2.0f9ffca7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ed8f24118990d7c4f947e6e28f3f8648.js": "/precache-manifest.ed8f24118990d7c4f947e6e28f3f8648.js",
+    "precache-manifest.725c77ccc899fe098f18a9d5aa892a35.js": "/precache-manifest.725c77ccc899fe098f18a9d5aa892a35.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.15037a40.chunk.css.map": "/static/css/2.15037a40.chunk.css.map",
-    "static/css/main.aba52b05.chunk.css.map": "/static/css/main.aba52b05.chunk.css.map",
+    "static/css/main.635e8aaf.chunk.css.map": "/static/css/main.635e8aaf.chunk.css.map",
     "static/js/2.0f9ffca7.chunk.js.LICENSE.txt": "/static/js/2.0f9ffca7.chunk.js.LICENSE.txt",
     "static/media/75_velikoy_pobedi.jpg": "/static/media/75_velikoy_pobedi.6281d591.jpg",
     "static/media/Baturin_preview.mp4": "/static/media/Baturin_preview.46b8edc7.mp4",
@@ -75,7 +75,7 @@
     "static/media/tw.7cb390aa.svg": "/static/media/tw.7cb390aa.svg",
     "static/media/vk.165f517e.svg": "/static/media/vk.165f517e.svg",
     "static/media/vozdushnaya_trevoga.jpg": "/static/media/vozdushnaya_trevoga.40843091.jpg",
-    "static/media/watch.fc7e7903.svg": "/static/media/watch.fc7e7903.svg",
+    "static/media/watch.2ca7119f.svg": "/static/media/watch.2ca7119f.svg",
     "static/media/ya_nadeyus.jpg": "/static/media/ya_nadeyus.3879b32f.jpg",
     "static/media/za_oblakami.jpg": "/static/media/za_oblakami.a6eeac42.jpg"
   },
@@ -83,7 +83,7 @@
     "static/js/runtime-main.d69e5064.js",
     "static/css/2.15037a40.chunk.css",
     "static/js/2.0f9ffca7.chunk.js",
-    "static/css/main.aba52b05.chunk.css",
-    "static/js/main.f968a2d4.chunk.js"
+    "static/css/main.635e8aaf.chunk.css",
+    "static/js/main.11b328e9.chunk.js"
   ]
 }
