@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0fcd381.chunk.css",
+    "main.css": "/static/css/main.5004a7b3.chunk.css",
     "main.js": "/static/js/main.0b6388c4.chunk.js",
     "main.js.map": "/static/js/main.0b6388c4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d69e5064.js",
@@ -9,10 +9,10 @@
     "static/js/2.cf8183f2.chunk.js": "/static/js/2.cf8183f2.chunk.js",
     "static/js/2.cf8183f2.chunk.js.map": "/static/js/2.cf8183f2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8c7864f9d75448938c9401793b0c6347.js": "/precache-manifest.8c7864f9d75448938c9401793b0c6347.js",
+    "precache-manifest.34faed3408f054b523665bcf36f088b9.js": "/precache-manifest.34faed3408f054b523665bcf36f088b9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.15037a40.chunk.css.map": "/static/css/2.15037a40.chunk.css.map",
-    "static/css/main.b0fcd381.chunk.css.map": "/static/css/main.b0fcd381.chunk.css.map",
+    "static/css/main.5004a7b3.chunk.css.map": "/static/css/main.5004a7b3.chunk.css.map",
     "static/js/2.cf8183f2.chunk.js.LICENSE.txt": "/static/js/2.cf8183f2.chunk.js.LICENSE.txt",
     "static/media/75_velikoy_pobedi.jpg": "/static/media/75_velikoy_pobedi.6281d591.jpg",
     "static/media/antigos_tayna.jpg": "/static/media/antigos_tayna.9d6f6955.jpg",
@@ -31,8 +31,8 @@
     "static/media/dr_mihalkova.jpg": "/static/media/dr_mihalkova.e2a0de5c.jpg",
     "static/media/facebook.79421dac.svg": "/static/media/facebook.79421dac.svg",
     "static/media/floor_round.1672a155.svg": "/static/media/floor_round.1672a155.svg",
-    "static/media/fsb_rasstavlyaet_akcenti.jpg": "/static/media/fsb_rasstavlyaet_akcenti.023a6d07.jpg",
     "static/media/Main.module.css": "/static/media/table.0aa5a678.jpg",
+    "static/media/fsb_rasstavlyaet_akcenti.jpg": "/static/media/fsb_rasstavlyaet_akcenti.023a6d07.jpg",
     "static/media/igri_v_zashite.jpg": "/static/media/igri_v_zashite.db94e869.jpg",
     "static/media/krestiyanin_i_djentelmen.jpg": "/static/media/krestiyanin_i_djentelmen.a0e11134.jpg",
     "static/media/logo.7ee056e0.svg": "/static/media/logo.7ee056e0.svg",
@@ -74,7 +74,7 @@
     "static/js/runtime-main.d69e5064.js",
     "static/css/2.15037a40.chunk.css",
     "static/js/2.cf8183f2.chunk.js",
-    "static/css/main.b0fcd381.chunk.css",
+    "static/css/main.5004a7b3.chunk.css",
     "static/js/main.0b6388c4.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ec546e2116d7af06906426b95097f7b",
+    "revision": "bf4d0490a3c0d098b9eb94260cbd1c79",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.15037a40.chunk.css"
   },
   {
-    "revision": "88d0fc94047f0be50176",
-    "url": "/static/css/main.b0fcd381.chunk.css"
+    "revision": "fd76af096c72b76f602d",
+    "url": "/static/css/main.5004a7b3.chunk.css"
   },
   {
     "revision": "f046878e420bb7cd9af7",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.cf8183f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88d0fc94047f0be50176",
+    "revision": "fd76af096c72b76f602d",
     "url": "/static/js/main.0b6388c4.chunk.js"
   },
   {
@@ -112,12 +112,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/floor_round.1672a155.svg"
   },
   {
-    "revision": "023a6d077270e65829e0a1f77f10026f",
-    "url": "/static/media/fsb_rasstavlyaet_akcenti.023a6d07.jpg"
+    "revision": "93d921d7d526ddf9f411884f3b732eb3",
+    "url": "/static/media/fon_mp.93d921d7.jpg"
   },
   {
-    "revision": "013e8e6d185410bfbff7c83b048abd10",
-    "url": "/static/media/hotel.013e8e6d.png"
+    "revision": "023a6d077270e65829e0a1f77f10026f",
+    "url": "/static/media/fsb_rasstavlyaet_akcenti.023a6d07.jpg"
   },
   {
     "revision": "db94e869cbc95807eccea56de2e3628d",
