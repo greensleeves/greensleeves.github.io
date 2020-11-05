@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb43eab1.chunk.css",
-    "main.js": "/static/js/main.b5b3298b.chunk.js",
-    "main.js.map": "/static/js/main.b5b3298b.chunk.js.map",
+    "main.css": "/static/css/main.7d5ffdab.chunk.css",
+    "main.js": "/static/js/main.b2dee87e.chunk.js",
+    "main.js.map": "/static/js/main.b2dee87e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d69e5064.js",
     "runtime-main.js.map": "/static/js/runtime-main.d69e5064.js.map",
     "static/css/2.15037a40.chunk.css": "/static/css/2.15037a40.chunk.css",
     "static/js/2.720a0a90.chunk.js": "/static/js/2.720a0a90.chunk.js",
     "static/js/2.720a0a90.chunk.js.map": "/static/js/2.720a0a90.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7e9f39c002636e9584a2fdded32c1eba.js": "/precache-manifest.7e9f39c002636e9584a2fdded32c1eba.js",
+    "precache-manifest.33c4539a8aa14bbda0fcbd039cd4fe2c.js": "/precache-manifest.33c4539a8aa14bbda0fcbd039cd4fe2c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.15037a40.chunk.css.map": "/static/css/2.15037a40.chunk.css.map",
-    "static/css/main.cb43eab1.chunk.css.map": "/static/css/main.cb43eab1.chunk.css.map",
+    "static/css/main.7d5ffdab.chunk.css.map": "/static/css/main.7d5ffdab.chunk.css.map",
     "static/js/2.720a0a90.chunk.js.LICENSE.txt": "/static/js/2.720a0a90.chunk.js.LICENSE.txt",
     "static/media/75_velikoy_pobedi.jpg": "/static/media/75_velikoy_pobedi.6281d591.jpg",
     "static/media/antigos_tayna.jpg": "/static/media/antigos_tayna.9d6f6955.jpg",
@@ -37,7 +37,7 @@
     "static/media/fsb_rasstavlyaet_akcenti.jpg": "/static/media/fsb_rasstavlyaet_akcenti.023a6d07.jpg",
     "static/media/igri_v_zashite.jpg": "/static/media/igri_v_zashite.db94e869.jpg",
     "static/media/krestiyanin_i_djentelmen.jpg": "/static/media/krestiyanin_i_djentelmen.a0e11134.jpg",
-    "static/media/logo.7ee056e0.svg": "/static/media/logo.7ee056e0.svg",
+    "static/media/logo.2653273e.svg": "/static/media/logo.2653273e.svg",
     "static/media/logo_rg.51932603.svg": "/static/media/logo_rg.51932603.svg",
     "static/media/logo_rg_arrow.94e39cc6.svg": "/static/media/logo_rg_arrow.94e39cc6.svg",
     "static/media/man.png": "/static/media/man.e8d82d38.png",
@@ -76,7 +76,7 @@
     "static/js/runtime-main.d69e5064.js",
     "static/css/2.15037a40.chunk.css",
     "static/js/2.720a0a90.chunk.js",
-    "static/css/main.cb43eab1.chunk.css",
-    "static/js/main.b5b3298b.chunk.js"
+    "static/css/main.7d5ffdab.chunk.css",
+    "static/js/main.b2dee87e.chunk.js"
   ]
 }
