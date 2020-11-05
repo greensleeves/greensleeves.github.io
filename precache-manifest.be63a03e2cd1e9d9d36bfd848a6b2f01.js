@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3204810531df97e75ee410cd2dff6fb",
+    "revision": "93a681bedf6bb088ba504470fb4eefda",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.15037a40.chunk.css"
   },
   {
-    "revision": "822de070007911e8720d",
+    "revision": "9c097513d48fcc7483eb",
     "url": "/static/css/main.369c82b1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.720a0a90.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "822de070007911e8720d",
-    "url": "/static/js/main.8c59b799.chunk.js"
+    "revision": "9c097513d48fcc7483eb",
+    "url": "/static/js/main.b5b3298b.chunk.js"
   },
   {
     "revision": "0d2f18cee0646946960b",
@@ -112,12 +112,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/floor_round.1672a155.svg"
   },
   {
-    "revision": "cb1a5dae4d0f271543b84a6236b5fd10",
-    "url": "/static/media/fon_desktop.cb1a5dae.jpg"
+    "revision": "864e5a0bde56eb68b1058ddd19426446",
+    "url": "/static/media/fon_desktop.864e5a0b.png"
   },
   {
-    "revision": "e1fe54f341340ec52519b8b86413bf06",
-    "url": "/static/media/fon_mobile.e1fe54f3.jpg"
+    "revision": "5d759a936b2859c23121ac4b32120393",
+    "url": "/static/media/fon_mobile.5d759a93.png"
   },
   {
     "revision": "93d921d7d526ddf9f411884f3b732eb3",
